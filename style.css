@@ -1,0 +1,640 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#body {
+    max-width: 1920px;
+    width: 100%;
+    height: 3249px;
+    padding-bottom: 240px;
+}
+
+#header {
+    max-width: 1920px;
+    width: 100%;
+    padding: 12px 32px 12px 32px;
+    margin-bottom: 94px;
+}
+
+
+#logo {
+    width: 173px;
+    height: 48px;
+    vertical-align: middle;
+}
+
+
+
+#navigation_container {
+    max-width: 1856px;
+    width: 100%;
+
+
+}
+
+
+#navigation_list {
+    display: inline-block;
+    margin-left: 670px;
+    vertical-align: middle;
+
+}
+
+#navigation_list a {
+    text-decoration: none;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#navigation_faq {
+    margin: auto 20px;
+}
+
+
+#contact_button {
+    border-radius: 8px;
+    border: 1px solid #6941C6;
+    background: #6941C6;
+    padding: 8px 16px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 670px;
+}
+
+
+
+#main_div {
+    padding: 0px 32px;
+}
+
+main {
+    max-width: 1500px;
+    width: 100%;
+    height: 3083x;
+    padding: 96px;
+    background: #F1E8FF;
+    margin: 0 auto;
+}
+
+#blockone {
+    background-color: #FFF;
+    width: 373.33px;
+    border-radius: var(--radius-2xl, 16px);
+    border: 1px solid #E9EAEB;
+    display: inline-block;
+
+}
+
+
+
+
+#pricing_plans {
+    margin-bottom: 32px;
+}
+
+
+h1 {
+    margin: 0 auto;
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#plan_free {
+    margin: 0 auto;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 650px;
+    height: 64px;
+}
+
+
+#plan {
+    width: 373.33px;
+    height: 332px;
+    background-color: #FFFFFF;
+    padding: 40px 32px 32px 32px;
+}
+
+
+#basic_plan {
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    width: 93px;
+    height: 28px;
+    margin: 0 auto;
+    padding: 4px 12px;
+    margin-bottom: 16px;
+}
+
+
+#price {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    width: 100%;
+}
+
+
+#most_popular {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 16px;
+}
+
+
+#get_started {
+    width: 100%;
+    height: 48px;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    color: #FFF;
+    font-family: inter;
+    margin-bottom: 12px;
+
+}
+
+
+#chattosales {
+    width: 100%;
+    height: 48px;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+}
+
+
+#plantwo {
+    width: 373.33px;
+    height: 257px;
+    padding: 0px 32px 40px 32px;
+}
+
+
+#blockone {
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+}
+
+#parameters {
+    color: #535862;
+    display: inline-block;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    width: 90%;
+    margin-bottom: 16px;
+
+}
+
+#check_circle {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+#blocktwo {
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    display: inline-block;
+    margin: 0px 30px;
+}
+
+
+#blockthree{
+    background-color: #FFF;
+    width: 373.33px;
+    border-radius: var(--radius-2xl, 16px);
+    border: 1px solid #E9EAEB;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+#faq_container {
+    width: 100%;
+    margin: 64px auto 0 auto;
+    border-radius: 24px;
+    padding: 32px 0;
+    background: #FFF;
+}
+
+#faq_header {
+    margin: 0 auto;
+    width: 768px;
+    height: 92px;
+    margin-bottom: 32px;
+}
+
+h3 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+
+#faq_p {
+    text-align: center;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#trial {
+    padding: 32px;
+    width: 768px;
+    background: #E4E4E4;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+#arrow {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+h6 {
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#trial_p {
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 38px;    
+}
+
+#change_plan {
+    padding: 32px;
+    width: 768px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    border: 2px solid #FF2323;
+    background: #FFE5E5;
+}
+
+
+#change_p{
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 38px;    
+}
+
+#cancelation_policy {
+    padding: 32px;
+    width: 768px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    background: #E9D7FF;
+}
+
+#cancelation_p{
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 38px;    
+}
+
+#invoice {
+    padding: 32px;
+    width: 768px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    background: #F7F4FF;
+}
+
+
+#invoice_p{
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 38px;    
+}
+
+#billing {
+    padding: 32px;
+    width: 768px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+}
+
+
+#billing_p{
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 38px;    
+}
+
+#email {
+    padding: 32px;
+    width: 768px;
+    border-radius: 16px;
+    margin: 0 auto;
+    background: #FFD5E7;
+}
+
+#email_p{
+    width: 656px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 38px;    
+}
+
+#review_container {
+    width: 100%;
+    margin: 64px auto 0 auto;
+    border-radius: 24px;
+    padding: 32px;
+    background: #FFF;
+}
+
+#review_header {
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+#personal_reviews{
+    display: inline-block;
+    vertical-align: middle;
+    width: 1200px;
+
+}
+
+h4 {
+    margin-bottom: 20px;
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;  
+}
+
+#review_p {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#caitlyn_review {
+    width: 580px;
+    height: 256px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#sienna_review {
+    width: 580px;
+    height: 256px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+h5 {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    display: inline-block;
+}
+
+#sienna_header {
+    margin-bottom: 80px;
+}
+
+#riley_header {
+    margin-bottom: 80px;
+}
+
+
+
+#avatars {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#sienna{
+    width: 300px;
+    height: 48px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#caitlyn{
+    width: 300px;
+    height: 48px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+
+#olly{
+    width: 300px;
+    height: 48px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+
+#riley{
+    width: 300px;
+    height: 48px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#name {
+    display: inline-block;
+    vertical-align: top;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#verify {
+    vertical-align: top;
+}
+
+#project_manager {
+    display: inline-block;
+    align-items: end;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#warpspeed_company {
+    margin-left: 12px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#caitlyn_header{
+    margin-bottom: 50px;
+}
+
+
+#olly_header {
+    margin-bottom: 50px;
+}
+
+#olly_review {
+    width: 580px;
+    height: 256px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#riley_review {
+    width: 580px;
+    height: 256px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+
+
